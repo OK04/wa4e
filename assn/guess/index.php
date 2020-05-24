@@ -5,7 +5,7 @@ $json = loadPeer("peer.json");
 <!DOCTYPE html>
 <html>
 <head>
-<title>Assignment: <?= $json->title ?></title>
+<title> 77a81025 Assignment: <?= $json->title ?></title>
 <style>
 li { padding: 5px; }
 </style>
